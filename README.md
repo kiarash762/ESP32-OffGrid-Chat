@@ -47,8 +47,8 @@ An emergency and disaster-resilient local communication node. The ESP32 hosts it
 2. Open `OffGridChat.ino` in Arduino IDE.
 3. (Optional) Customize the Wi-Fi credentials at the top of the file:
    ```cpp
-   const char* AP_SSID = "OffGrid-Chat";
-   const char* AP_PASS = "kiaGOD762"; // Minimum 8 characters, or "" for open network
+   const char* AP_SSID = "Offline-Chat";
+   const char* AP_PASS = "12345678"; // Minimum 8 characters, or "" for open network
    ```
 4. Select your board (e.g., `ESP32 Dev Module`) and the correct COM port.
 5. Click **Upload**.
