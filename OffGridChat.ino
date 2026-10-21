@@ -5,8 +5,8 @@
 #include <vector>
 
 // --- Configuration ---
-const char* AP_SSID = "OffGrid-Chat";
-const char* AP_PASS = "kiaGOD762"; // Open network
+const char* AP_SSID = "Offline-Chat";
+const char* AP_PASS = "12345678"; // Open network
 const byte DNS_PORT = 53;
 const IPAddress AP_IP(192, 168, 4, 1);
 const IPAddress NETMASK(255, 255, 255, 0);
