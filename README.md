@@ -58,8 +58,8 @@ An emergency and disaster-resilient local communication node. The ESP32 hosts it
 ## 📱 How to Use
 
 1. Turn on the ESP32 (powered via USB / power bank).
-2. On your phone or laptop, search for Wi-Fi networks and connect to **`OffGrid-Chat`**.
-3. Enter the Wi-Fi password (default: `kiaGOD762`).
+2. On your phone or laptop, search for Wi-Fi networks and connect to **`Offline-Chat`**.
+3. Enter the Wi-Fi password (default: `12345678`).
 4. A notification ("Sign in to network") will pop up automatically. Tap it, or open any web browser and navigate to:
    ```
    http://192.168.4.1
