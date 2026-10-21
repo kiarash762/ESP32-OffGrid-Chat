@@ -1,0 +1,14 @@
+# Arduino compiled binaries
+*.hex
+*.bin
+*.elf
+
+# Build directories
+build/
+.cache/
+
+# VS Code / IDE settings
+.vscode/
+.idea/
+*.swp
+*~
